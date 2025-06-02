@@ -1,0 +1,32 @@
+.appbuttons button{
+  width: 100vw;
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  border: none;
+  border-bottom: black solid;
+  margin: 0px;
+  font-size: 1.5vh;
+  align-content: center;
+  background-color: gray;
+}
+.appbuttons img{
+  height: 100%;
+  width: 10vh;
+  margin-right: 2%;
+  margin-top: 0px;
+  padding: 0px
+}
+.appbuttons{
+  text-decoration: none;
+}
+body{
+  margin: 0px;
+  font-family: "Arial";
+  background-color: gray
+}
+header{
+  text-align: center;
+  margin: 0px;
+  font-size: 2vh;
+}
